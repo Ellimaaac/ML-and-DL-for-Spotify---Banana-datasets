@@ -18,3 +18,4 @@ Ouvrez directement le fichier via ce lien [ML-and-DL-for-Spotify-dataset](Spotif
     - Random Forest
 - Deep Learning
   - Neural Network
+  - NLP
