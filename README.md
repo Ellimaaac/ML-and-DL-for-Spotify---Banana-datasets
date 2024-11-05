@@ -1,5 +1,4 @@
 # ML-and-DL-for-Spotify-dataset
-By TOVAR DORANTES Javier & LANFREDI Camille
 
 AI : Machine Learning / Deep Learning / Neural Network for Spotify Dataset
 
