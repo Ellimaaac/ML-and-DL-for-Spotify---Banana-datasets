@@ -2,7 +2,7 @@
 
 AI : Machine Learning / Deep Learning / Neural Network for Spotify Dataset
 
-Spotify Dataset : 
+Spotify Dataset : [lien](https://www.kaggle.com/datasets/sarahjeffreson/featured-spotify-artiststracks-with-metadata)
 
 Banana dataset : 
 
