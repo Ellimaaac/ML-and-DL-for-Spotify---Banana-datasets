@@ -1,20 +1,6 @@
-# ML-and-DL-for-Spotify-dataset
+# ML-and-DL-for-Spotify-dataset-&-Banana-dataset
 
 AI : Machine Learning / Deep Learning / Neural Network for Spotify Dataset
 
 Ouvrez directement le fichier via ce lien [ML-and-DL-for-Spotify-dataset](Spotify.ipynb)
-
-#### Models used
-- Machine Learning
-  - Regressions
-    - Linear
-    - Polynomial
-    - Exponential
-  - Extreme Boosting Machines
-  - Classifications
-    - Correlation Matrix
-    - Decision Tree
-    - Random Forest
-- Deep Learning
-  - Neural Network
-  - NLP
+Ouvrez directement le fichier via ce lien [ML-and-DL-for-Banana-dataset]()
