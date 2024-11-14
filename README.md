@@ -9,4 +9,4 @@ AI : Machine Learning / Deep Learning / Neural Network for Spotify Dataset
 
 Here, to open the ipynb script and download it : [ML-and-DL-for-Spotify-dataset](Spotify_with_lyrics.ipynb)
 
-Here to download the Orange file [ML-and-DL-for-Banana-dataset](https://github.com/Ellimaaac/ML-and-DL-for-Spotify-Banana-datasets/blob/main/banana_orange.ows)
+Here to download the Orange file : [ML-and-DL-for-Banana-dataset](https://github.com/Ellimaaac/ML-and-DL-for-Spotify-Banana-datasets/blob/main/banana_orange.ows)
